@@ -1,1 +1,5 @@
-MiddleKit is a new project skeleton for middleman (middlemanapp.com). MiddleKit is based on my own workfow: Several different sass files for easy css dev, and a modular html structure, using partials.
+This is a port of the HTML5 Boilerplate, into a Middleman template. It does include some partials and the use of SASS (SCSS).I am aware of the fact that Middleman comes out of the box with the option to init with the HTMl5 boilerplate, but the template is quite outdated. This is only a means to maintain an edge version of the boilerplate in template form. This is and will be a work in progress and I will continue to work on implementing best practices for Middleman App dev workflow. 
+
+https://github.com/h5bp/html5-boilerplate
+
+http://middlemanapp.com/
